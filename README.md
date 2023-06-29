@@ -2,7 +2,10 @@
 Final project of Computer Interfacing (CI), FIB-UPC
 
 ## Information
+- Microcontroller model: **Microchip PIC18F45K22**
+- Compiler: MPLAB XC8
 - Project name: **Slider**
+- Simulator: Proteus Professional v8.13
 - Authors: Bru and Feiyang
 
 ## Introduction
